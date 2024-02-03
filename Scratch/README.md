@@ -1,6 +1,6 @@
 # itp
 
-#Ghibbi Moure Scratch Assignment "AKA Crab Time"
+# Ghibbi Moure Scratch Assignment "AKA Crab Time"
 
 ## Controls
 Left Arrow = Move left
