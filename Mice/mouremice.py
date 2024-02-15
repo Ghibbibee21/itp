@@ -1,1 +1,1 @@
-print("3\t\t\n\tblind\t\n\t\tmice")
+print (f"{1 + 1 + 1}\t\t\n\tblind\t\n\t\tmice") 
