@@ -1,0 +1,1 @@
+print("3\t\t\n\tblind\t\n\t\tmice")
