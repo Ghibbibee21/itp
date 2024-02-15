@@ -7,5 +7,13 @@
 - - I already knew that Python utilizes a lot of formal language and as a result has a lot of strict syntax rules.
 
 - Chapter 3
+- - ## Thing I Didn't know
+- -
+- - ## Thing I already knew
+- -
 
 - Chapter 5
+- - ## Thing I Didn't know
+- -
+- - ## Thing I already knew
+- - 
