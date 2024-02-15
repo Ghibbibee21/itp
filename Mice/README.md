@@ -6,3 +6,4 @@ Originally, that's all I did but then I found out the 3 has to be a calculation.
 So I tried different things such as the basic (1 * 3) but that didn't work so I basically just looked at the references for the fstring function things and tried different variants until I found out that I was doing it wrong and found that it was just f"(<insert equation here>).
 Afterwards it was smooth sailing from there.
 The equation I landed on was 1 + 1 + 1.
+[Here's](https://github.com/rdwrome/261sp24/blob/main/03Variables%2BOperators/README.md) Where I got the references to do the code.
