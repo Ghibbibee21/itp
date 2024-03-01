@@ -1,9 +1,10 @@
 number = int(input("Oy mate, how big do ya want this pyramid? "))
 if number < 1 or number > 8:
-    print ("no")
+    then print ("no >:(")
 else: number >= 1 and number <= 8
-for i in range(number + 1, 0, -1):
+for i in range(number, -1, -1):
   for j in range(number):
     if j >= i:
       print('#', end='')
   print()
+print("Here ya go mate! B)")
