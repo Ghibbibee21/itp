@@ -1,10 +1,11 @@
-number = int(input("Oy mate, how big do ya want this pyramid? "))
-if number < 1 or number > 8:
-    then print ("no >:(")
-else: number >= 1 and number <= 8
-for i in range(number, -1, -1):
-  for j in range(number):
+stacks = int(input("Oy mate, how big do ya want this pyramid? "))
+if stacks <= 0 or stacks >= 9: 
+   print ("no >:(")
+
+else: stacks >= 1 and stacks <= 8
+for i in range(stacks, -1, -1):
+  for j in range(stacks):
     if j >= i:
       print('#', end='')
   print()
-print("Here ya go mate! B)")
+print("\nHere ya go mate! B)")
