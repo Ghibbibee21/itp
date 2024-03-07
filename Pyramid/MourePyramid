@@ -1,16 +1,17 @@
 stacks = int(input("How big do ya want this pyramid? "))
 if stacks == 0 or stacks >= 9: 
-   print ("\nNO\n") 
+   print ("\nNO!\n") 
    stacks = int(input("How big do ya want this pyramid? "))
    if stacks == 0 or stacks >= 9: 
     print ("\nYou get ONE more try\n") 
     stacks = int(input("How big do ya want this pyramid? "))
     if stacks == 0 or stacks >= 9: 
-      print ("\nGo eat dirt ya goober\n")
-else: stacks >= 1 and stacks <= 8 
-for i in range(stacks, -1, -1):
-  for j in range(stacks):
-    if j >= i:
-      print('#', end='')
-  print()
-print("\nHere ya go mate")
+      print ("\nGo eat dirt ya goober :<\n")
+      
+elif stacks >= 1 and stacks <= 8: 
+  for i in range(stacks, -1, -1):
+    for j in range(stacks):
+      if j >= i:
+        print('#', end='')
+    print()
+  print("\nHere ya go mate :>")
