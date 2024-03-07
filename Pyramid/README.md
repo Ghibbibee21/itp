@@ -1,5 +1,5 @@
 # Pyramids and FizzBuzz!
-NOTE: THE FINAL FILES ARE THE .PY FILES. THE DOCUMENT VERSIONS I LEFT THERE BECAUSE IT HAS MOST OF THE DEVELOPMENT HISTORY.
+NOTE: THE FINAL FILES ARE THE .PY FILES. THE DOCUMENT VERSIONS I LEFT THERE BECAUSE IT HAS MOST OF THE DEVELOPMENT HISTORY THAT IS VISIBLE VIA VSCODE I THINK.
 ## Pyramid
 - This part started off pretty easy, I just looked at the range code that was in the class readme and went from there.
 - I also went through the readme to get the inputting mechanism going.
@@ -21,3 +21,5 @@ NOTE: THE FINAL FILES ARE THE .PY FILES. THE DOCUMENT VERSIONS I LEFT THERE BECA
 
 ## IN GENERAL
 - This assignment showed me the true pain that is semantic errors (or at least what I think to be semantic errors, idk).
+
+- [Here's](https://github.com/rdwrome/261sp24/blob/main/04ControlFlow/README.md) the readme file in question.
