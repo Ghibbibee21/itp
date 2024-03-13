@@ -41,3 +41,5 @@ for i in range(-8, 9):
 *
 *
 *
+* A
+- I then tried to change the equation from x ** n to x * x but I wasn't getting anything other than the previous result.
