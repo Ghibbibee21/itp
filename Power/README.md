@@ -43,3 +43,21 @@ for i in range(-8, 9):
 *
 * A
 - I then tried to change the equation from x ** n to x * x but I wasn't getting anything other than the previous result.
+- So I tried adding an X axis to it by also taking the "for j in range(0, 9):" my previous assignment and I got the following
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
