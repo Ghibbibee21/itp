@@ -9,7 +9,5 @@ def print_graph(n):
             print('*' * (n * y))
         elif y == 0:
              print('' * n)
-        else:
-             print('*')
 print_graph(2)
 
