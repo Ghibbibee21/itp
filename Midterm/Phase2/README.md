@@ -25,3 +25,6 @@ def draw():
 ```
 - This is what I ended up with
 - ![Phase2Example1](Phase2Example1.png)
+- Now there is a problem at the moment.
+- It has no eyes or mouth!
+- So now I had to figure out how to make white shapes to give it a face.
