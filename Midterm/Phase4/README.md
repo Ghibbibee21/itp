@@ -54,6 +54,7 @@ def draw():
     drawObject(1,99,1)
 ```
 - I got a repeat of one creature but I'm not exactly getting any tiling.
+- ![Phase4Example1](Phase4Example1.png)
 - So I read the hint about for loops and I looked up an example of for loops [here](https://wiki.python.org/moin/ForLoop)
 - This is what I landed on.
 ``` python
@@ -85,3 +86,4 @@ for x in range(0, 400):
             drawObject(1,99,1)
 ```
 - It yielded a repeat of the previous result.
+- ![Phase4Example2](Phase4Example2)
