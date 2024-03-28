@@ -19,6 +19,8 @@ def drawObject(x,y,s):
     rect(97, 55, 15, 5)
     pop()
 
+for x in range(0, 400):
+    for y in range(0, 400):
 def draw():
     drawObject(1,9,1)
     drawObject(1,99,1)
