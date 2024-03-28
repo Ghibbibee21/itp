@@ -86,4 +86,4 @@ for x in range(0, 400):
             drawObject(1,99,1)
 ```
 - It yielded a repeat of the previous result.
-- ![Phase4Example2](Phase4Example2)
+- ![Phase4Example2](Phase4Example2.png)
